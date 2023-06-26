@@ -1,0 +1,5 @@
+_auxdir_
+*.pem
+udit/
+__pycache__
+.vscode
